@@ -8,7 +8,8 @@ This project is a simple web page that displays the current date and time in HH:
 * JavaScript: Logic to fetch and update the current time every second.
   
 **Deployment** <br />
-Visit: 1. digitalclockbycharan.vercel.app/ <br />
+Visit: <br />
+       1. https://digitalclockbycharan.vercel.app <br />
        2. https://charan-gowda-bm-2003.github.io/Digital-Clock/ <br />
 
 **How to Use**
