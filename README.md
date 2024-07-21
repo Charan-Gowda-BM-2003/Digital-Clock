@@ -12,7 +12,7 @@ This project is a simple web page that displays the current date and time in HH:
   
 **Deployment** <br />
 
-       1. https://digitalclockbycharan.vercel.app <br />
+       1. <https://digitalclockbycharan.vercel.app> <br />
        2. https://charan-gowda-bm-2003.github.io/Digital-Clock/ <br />
 
 **How to Use**
