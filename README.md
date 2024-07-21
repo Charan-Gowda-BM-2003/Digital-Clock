@@ -17,8 +17,8 @@ cd digital-clock
 
 
 
-**Contributions**
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any changes.
+**Contributions** <br />
+Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any changes.<br />
 **License**
 This project is licensed under the MIT License.
 
