@@ -10,7 +10,7 @@ This project is a simple web page that displays the current date and time in HH:
 * CSS: Styling for the clock and overall page layout.
 * JavaScript: Logic to fetch and update the current time every second.
   
-**Deployment** 
+**Deployment** <br />
        1.[https://external.ink?to=/digitalclockbycharan.vercel.app](https://digitalclockbycharan.vercel.app) <br />
        2.[https://charan-gowda-bm-2003.github.io/Digital-Clock/](https://charan-gowda-bm-2003.github.io/Digital-Clock/) <br />
 
