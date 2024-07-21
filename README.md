@@ -1,4 +1,4 @@
-#Digital Clock Web Page <br />
+# Digital Clock Web Page # <br />
 This project is a simple web page that displays the current date and time in HH:MM:SS format. It is designed using HTML, CSS, and JavaScript.<br />
 <br />
 **Technologies Used**<br />
