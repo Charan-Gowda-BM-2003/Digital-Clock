@@ -2,7 +2,6 @@
 This project is a simple web page that displays the current date and time in HH:MM:SS format. It is designed using HTML, CSS, and JavaScript.<br />
 <br />
 
-**Screeshot**
   ![Digi-clock](https://github.com/user-attachments/assets/e7181ab5-e6fa-4d73-b221-1874d666661d)
 
 **Technologies Used**<br />
